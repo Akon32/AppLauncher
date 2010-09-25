@@ -30,3 +30,6 @@ install: release
 uninstall:
 	rm -f $(INST_DIR)/$(PROGRAM)
 
+run: $(PROGRAM)
+	./applauncher --config applauncher.list
+

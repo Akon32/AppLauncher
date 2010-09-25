@@ -1,0 +1,25 @@
+a	Ananaxis	adanaxisgpl
+A	AppLauncherConfig	gedit ~/.applauncher.list
+#C	Camera	luvcview
+c	CommandLine	gnome-terminal --working-directory=~
+d	OpenOffice	ooffice
+e	Edit	gedit
+E	Emacs	emacs
+f	Search	gnome-search-tool
+g	qgo	qgo
+h	Home	nautilus ~
+i	InternetBrowser	firefox
+l	Calculator	gcalctool
+L	LightsOff	LightsOff
+M	Mail	evolution
+m	Music	rhythmbox
+n	NetBeans	netbeans
+o	Opera	opera
+p	Pidgin	pidgin
+s	SystemMonitor	gnome-system-monitor
+S	VirusScanner	clamtk
+t	TorrentClient	qbittorrent
+T	Trigger	trigger-rally
+V	VideoPlayer	totem
+v	VirtualBox	env VBOX_HWVIRTEX_IGNORE_SVM_IN_USE=true VirtualBox
+

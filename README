@@ -1,1 +1,18 @@
 AppLauncher - simple and fast launcher for applications. 
+
+Building:
+make
+
+Running:
+make run
+
+Default config file is "~/.applauncher.list" , that can be changed by specifying "--config" option.
+
+Config file example:
+
+#a comment line
+e	Edit	gedit
+
+Format of lines in config file:
+{#<comment line>}|{<Key><spaces><Title><TAB><Command>}
+
